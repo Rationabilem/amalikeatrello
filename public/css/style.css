@@ -1,0 +1,7 @@
+table {
+  table-layout:fixed;
+}
+#tasks td {
+  white-space:inherit;
+  word-wrap: break-word;
+}
